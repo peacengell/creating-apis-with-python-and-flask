@@ -1,2 +1,6 @@
 .venv/
 .vscode/
+api/__pycache__/api.cpython-36.pyc
+api/crud.db
+test.py
+.env
